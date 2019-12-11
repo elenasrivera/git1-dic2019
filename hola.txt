@@ -1,0 +1,7 @@
+Hola
+Descargar git-scm de https://git-scm.com/download/win
+Creamos cuenta en git-hub
+Principios básicos control versiones en vs-code https://code.visualstudio.com/docs/editor/versioncontrol
+PS C:\xampp\htdocs\ejerciciosphp\git1> git config --global user.name "elenasrivera"
+PS C:\xampp\htdocs\ejerciciosphp\git1> git config --global user.email "elena@elena"
+Ahora podemos hacer varios commits(con check, con el comando Palette, en el terminal....)
