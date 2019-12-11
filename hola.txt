@@ -22,3 +22,9 @@ PS C:\xampp\htdocs\ejerciciosphp\git1> git log --oneline
 d9a763e commit1
 PS C:\xampp\htdocs\ejerciciosphp\git1>
 PS C:\xampp\htdocs\ejerciciosphp\git1>
+Restaurar commits anteriores:
+git checkout eidcommit
+También podemos retroceder 
+git reset --hard HEAD ~2(número de commits que quiero retroceder)
+Para subir agit hub, creamos un repositorio y copiamos la URL
+Invocamos git remote add origin https://github.com/elenasrivera/git1-dic2019.git
