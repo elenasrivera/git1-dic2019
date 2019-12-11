@@ -5,3 +5,20 @@ Principios básicos control versiones en vs-code https://code.visualstudio.com/d
 PS C:\xampp\htdocs\ejerciciosphp\git1> git config --global user.name "elenasrivera"
 PS C:\xampp\htdocs\ejerciciosphp\git1> git config --global user.email "elena@elena"
 Ahora podemos hacer varios commits(con check, con el comando Palette, en el terminal....)
+PS C:\xampp\htdocs\ejerciciosphp\git1> git log
+commit 3addc317434ff53cd35e1fc5cf1a10bbf48d17ec (HEAD -> master)
+Author: elenasrivera <elena@elena>
+Date:   Wed Dec 11 11:25:59 2019 +0100
+
+    commit2
+
+commit d9a763e99510ce5355332aaae9f0c8789e31c838
+Author: elenasrivera <elena@elena>
+Date:   Wed Dec 11 11:23:35 2019 +0100
+
+    commit1
+PS C:\xampp\htdocs\ejerciciosphp\git1> git log --oneline
+3addc31 (HEAD -> master) commit2
+d9a763e commit1
+PS C:\xampp\htdocs\ejerciciosphp\git1>
+PS C:\xampp\htdocs\ejerciciosphp\git1>
