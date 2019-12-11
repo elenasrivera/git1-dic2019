@@ -28,3 +28,5 @@ También podemos retroceder
 git reset --hard HEAD ~2(número de commits que quiero retroceder)
 Para subir agit hub, creamos un repositorio y copiamos la URL
 Invocamos git remote add origin https://github.com/elenasrivera/git1-dic2019.git
+En git accedemos alos cambios del último commit, sincronizar el la parte inferior izquierda
+CLONAR UN REPOSITORIO git clone + url del repositorio
